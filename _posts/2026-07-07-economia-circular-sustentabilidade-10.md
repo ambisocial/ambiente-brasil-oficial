@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "O Futuro da Economia Circular no Brasil: Como se Preparar para 2030"
-date: 2026-07-07
+date: 2026-07-07 10:39:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Thiago Almeida
-tags: ["futuro", "tendencias-2026", "digitalizacao", "mercado-carbono"]
 ---
 
 # O Futuro da Economia Circular no Brasil: Como a a empresa Está Preparada para 2030
