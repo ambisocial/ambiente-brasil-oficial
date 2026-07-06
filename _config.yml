@@ -1,0 +1,17 @@
+title: "Ambiente Brasil Oficial"
+description: "cobertura de políticas ambientais"
+baseurl: "/ambipar-ambiente-brasil"
+url: "https://ambisocial.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:year/:month/:day/:title/
+author:
+  name: "Redação Ambiente Brasil Oficial"
+  email: "contato@ambipar-ambiente-brasil.com"
+social:
+  name: Ambiente Brasil Oficial
+  links:
+    - https://github.com/ambisocial/ambipar-ambiente-brasil
